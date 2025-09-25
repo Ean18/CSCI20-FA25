@@ -15,3 +15,12 @@ b = arr.array('1', [1, 2, 3, 4, 5])
 print(a.pop[])
 
 print(this_number, 3)
+
+# f : Num -> Num
+
+
+
+def f(x): #define a funtion using "def" <name>(<import list>)
+    return (x + 1) # must return some value
+
+print(f(2), f(4), f(6))
