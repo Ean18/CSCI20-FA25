@@ -1,10 +1,12 @@
 -find devdocs.io
--find array
-arrays is a sequence types and behave much like a list the objects are stored and compressed
+-search array in devdoc.io 
+
 use array
 -list (collection)
 -type
-array('1')
-array('w', 'hello' \u2641')
-array('l', [1, 2, 3, 4, 5])
-array('d', [1.0, 2.0, 3.14, -inf, nan])
+
+what is an array
+-an arrays is a sequence types and behave much like a list the objects are stored and compressed
+-a sequence is a iterable which supports efficient element access using integer indices via __getitem__()
+-a Getitem is a Called to implement assignment to self[key]
+-a collection is a bunch of orgainzed in some meaning or not meaning full way
