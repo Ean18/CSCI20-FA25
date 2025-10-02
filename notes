@@ -7,7 +7,7 @@ use array
 
 what is an array
 -an arrays is a sequence types and behave much like a list the objects are stored and compressed
--a sequence is a iterable which supports efficient element access using integer indices via __getitem__()
+-a sequence is a iterable which supports efficient element access using integer indices via getitem
 -a Getitem is a Called to implement assignment to self[key]
 -a collection is a bunch of orgainzed in some meaning or not meaning full way
 -structure data of any type
